@@ -2,6 +2,10 @@
 
 [Analysts’ Beauty and Performance](https://stevenshih-0402.github.io/MarkMap/Analysts%E2%80%99%20Beauty%20and%20Performance.html)
 
+<details>
+
+<summary>Endnote</summary>
+
 1. 文獻表明，這些對有吸引力的人的好處大多與他們的性別無關（Dion et al. 1972， Dipboye et al. 1977， Webster and Driskell 1983， Eagly et al. 1991， Hamermesh and Biddle 1994， Harper 2000）。即使是嬰兒也更喜歡身體吸引力（Samuels and Ewy 1985， anglois et al. 1990）。因此，ebster 和 Driskell （1983） 提出，美是一種地位特徵，就像性別、年齡和種族一樣，“沒有任何明確限制的特徵和能力的內涵”（Webster 和 Driskell 1983，第 146 頁），其產生的許多好處與任何性或浪漫吸引力無關。(P.2)
 
 2. 肖剛於2016年2月卸任中國證監會主席。(p.3)
@@ -99,3 +103,5 @@
 39. 然而，在分析中包括非領導職位的分析師會產生類似的結果。(p.16)
 
 40. 如果我們將標準更改為公司和分析師位於同一城市或彼此相距 50 公里以內，我們會得到類似的結果。(p.17)
+
+</details>
