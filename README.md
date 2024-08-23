@@ -20,7 +20,7 @@
 
 8. 為了獲得全面的樣本，我們還從其他廣泛使用的資料庫中提取分析師預測數據，包括：
    
-   - RESSET（http://www1.resset.cn：8080/product/index.jsp？lang=en; 最後訪問時間為2019年1月9日）
+   - RESSET（http://www1.resset.cn:8080/product/index.jsp?lang=en; 最後訪問時間為2019年1月9日）
    - WIND（http://www.wind.com.cn/en/Default.html; 最後訪問時間為2019年1月9日）
    - IFIND（http://www.10jqka.com.cn; 最後訪問時間為2019年1月9日）
    - Choice（http://choice.eastmoney.com/; 最後訪問時間為2019年1月9日）
